@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Origin",
+    "parent": "",
+    "value": ""
+  },
+  {
+    "name": "Comedy",
+    "parent": "Origin",
+    "value": 8975
+  },
+  {
+    "name": "Drama",
+    "parent": "Origin",
+    "value": 5088
+  },
+  {
+    "name": "Comedy romance",
+    "parent": "Comedy",
+    "value": 969
+  },
+  {
+    "name": "Comedy drama romance",
+    "parent": "Comedy",
+    "value": 1872
+  },
+  {
+    "name": "Comedy crime",
+    "parent": "Comedy",
+    "value": 512
+  },
+  {
+    "name": "Comedy horror",
+    "parent": "Comedy",
+    "value": 481
+  },
+  {
+    "name": "Comedy anim",
+    "parent": "Comedy",
+    "value": 4119
+  },
+  {
+    "name": "Comedy fantasy",
+    "parent": "Comedy",
+    "value": 1022
+  },
+  {
+    "name": "Drama crime",
+    "parent": "Drama",
+    "value": 1362
+  },
+  {
+    "name": "Drama comedy crime",
+    "parent": "Drama",
+    "value": 853
+  },
+  {
+    "name": "Drama romance",
+    "parent": "Drama",
+    "value": 992
+  },
+  {
+    "name": "Drama scifi",
+    "parent": "Drama",
+    "value": 633
+  },
+  {
+    "name": "Drama western",
+    "parent": "Drama",
+    "value": 341
+  },
+  {
+    "name": "Drama history",
+    "parent": "Drama",
+    "value": 907
+  }
+]
